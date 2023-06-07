@@ -3,3 +3,5 @@ I developed a machine learning model and used facial emotions to help children w
 
 The datset used can be downloaded from the link below:
 - https://www.kaggle.com/datasets/debanga/facial-expression-recognition-challenge?select=icml_face_data.csv
+
+This data is from a kaggle competition "Facial Expression Recognition Challenge Dataset"
