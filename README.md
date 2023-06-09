@@ -7,7 +7,7 @@ The datset used can be downloaded from the link below:
 This data is from a kaggle competition "Facial Expression Recognition Challenge Dataset"
 
 
-Note: This is a project completed for IST 707 Applied Machine Learning at Syracuse Universit.
+Note: This is a project completed for IST 707 Applied Machine Learning at Syracuse University.
 
 For citation:
 
