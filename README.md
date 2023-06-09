@@ -12,4 +12,4 @@ Note: This is a project completed as part of course for IST 707 Applied Machine 
 For citation:
 
     Vaibhav Chaudhari. 2022. Using-Facial-Emotions-to-Detect-Social-Environment
-. [URL](https://github.com/VaibhavC15/Using-Facial-Emotions-to-Detect-Social-Environment).
+. https://github.com/VaibhavC15/Using-Facial-Emotions-to-Detect-Social-Environment.
